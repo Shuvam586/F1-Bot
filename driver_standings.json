@@ -1,0 +1,128 @@
+{
+    "1": {
+        "number": "1",
+        "driver": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "points": "287.5"
+    },
+    "2": {
+        "number": "2",
+        "driver": "Lewis Hamilton",
+        "team": "Mercedes",
+        "points": "275.5"
+    },
+    "3": {
+        "number": "3",
+        "driver": "Valtteri Bottas",
+        "team": "Mercedes",
+        "points": "185"
+    },
+    "4": {
+        "number": "4",
+        "driver": "Sergio Perez",
+        "team": "Red Bull Racing Honda",
+        "points": "150"
+    },
+    "5": {
+        "number": "5",
+        "driver": "Lando Norris",
+        "team": "McLaren Mercedes",
+        "points": "149"
+    },
+    "6": {
+        "number": "6",
+        "driver": "Charles Leclerc",
+        "team": "Ferrari",
+        "points": "128"
+    },
+    "7": {
+        "number": "7",
+        "driver": "Carlos Sainz",
+        "team": "Ferrari",
+        "points": "122.5"
+    },
+    "8": {
+        "number": "8",
+        "driver": "Daniel Ricciardo",
+        "team": "McLaren Mercedes",
+        "points": "105"
+    },
+    "9": {
+        "number": "9",
+        "driver": "Pierre Gasly",
+        "team": "AlphaTauri Honda",
+        "points": "74"
+    },
+    "10": {
+        "number": "10",
+        "driver": "Fernando Alonso",
+        "team": "Alpine Renault",
+        "points": "58"
+    },
+    "11": {
+        "number": "11",
+        "driver": "Esteban Ocon",
+        "team": "Alpine Renault",
+        "points": "46"
+    },
+    "12": {
+        "number": "12",
+        "driver": "Sebastian Vettel",
+        "team": "Aston Martin Mercedes",
+        "points": "36"
+    },
+    "13": {
+        "number": "13",
+        "driver": "Lance Stroll",
+        "team": "Aston Martin Mercedes",
+        "points": "26"
+    },
+    "14": {
+        "number": "14",
+        "driver": "Yuki Tsunoda",
+        "team": "AlphaTauri Honda",
+        "points": "20"
+    },
+    "15": {
+        "number": "15",
+        "driver": "George Russell",
+        "team": "Williams Mercedes",
+        "points": "16"
+    },
+    "16": {
+        "number": "16",
+        "driver": "Nicholas Latifi",
+        "team": "Williams Mercedes",
+        "points": "7"
+    },
+    "17": {
+        "number": "17",
+        "driver": "Kimi R\u00c3\u00a4ikk\u00c3\u00b6nen",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": "6"
+    },
+    "18": {
+        "number": "18",
+        "driver": "Antonio Giovinazzi",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": "1"
+    },
+    "19": {
+        "number": "19",
+        "driver": "Mick Schumacher",
+        "team": "Haas Ferrari",
+        "points": "0"
+    },
+    "20": {
+        "number": "20",
+        "driver": "Robert Kubica",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": "0"
+    },
+    "21": {
+        "number": "21",
+        "driver": "Nikita Mazepin",
+        "team": "Haas Ferrari",
+        "points": "0"
+    }
+}

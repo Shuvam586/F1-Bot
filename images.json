@@ -1,0 +1,77 @@
+{
+    "cars":    
+    {
+        "MER" : "https://www.formula1.com/content/dam/fom-website/teams/2021/mercedes.png.transform/4col/image.png",
+        "RBR" : "https://www.formula1.com/content/dam/fom-website/teams/2021/red-bull-racing.png.transform/4col/image.png",
+        "MCL" : "https://www.formula1.com/content/dam/fom-website/teams/2021/mclaren.png.transform/4col/image.png",
+        "FER" : "https://www.formula1.com/content/dam/fom-website/teams/2021/ferrari.png.transform/4col/image.png",
+        "ALP" : "https://www.formula1.com/content/dam/fom-website/teams/2021/alpine.png.transform/4col/image.png",
+        "ALT" : "https://www.formula1.com/content/dam/fom-website/teams/2021/alphatauri.png.transform/4col/image.png",
+        "ASM" : "https://www.formula1.com/content/dam/fom-website/teams/2021/aston-martin.png.transform/4col/image.png",
+        "WIL" : "https://www.formula1.com/content/dam/fom-website/teams/2021/williams.png.transform/4col/image.png",
+        "ALF" : "https://www.formula1.com/content/dam/fom-website/teams/2021/alfa-romeo-racing.png.transform/4col/image.png",
+        "HAS" : "https://www.formula1.com/content/dam/fom-website/teams/2021/haas-f1-team.png.transform/4col/image.png"
+    }, 
+    
+    "teams":    
+    {
+        "MER" : "https://www.formula1.com/content/fom-website/en/teams/Mercedes/_jcr_content/logo.img.jpg/1582638425211.jpg",
+        "RBR" : "https://www.formula1.com/content/fom-website/en/teams/Red-Bull-Racing/_jcr_content/logo.img.jpg/1610719164360.jpg",
+        "MCL" : "https://www.formula1.com/content/fom-website/en/teams/McLaren/_jcr_content/logo.img.jpg/1515152760829.jpg",
+        "FER" : "https://www.formula1.com/content/fom-website/en/teams/Ferrari/_jcr_content/logo.img.jpg/1521797474166.jpg",
+        "ALP" : "https://www.formula1.com/content/fom-website/en/teams/Alpine/_jcr_content/logo.img.jpg/1611246834255.jpg",
+        "ALT" : "https://www.formula1.com/content/fom-website/en/teams/AlphaTauri/_jcr_content/logo.img.jpg/1582650557134.jpg",
+        "ASM" : "https://www.formula1.com/content/fom-website/en/teams/Aston-Martin/_jcr_content/logo.img.png/1610642928926.png",
+        "WIL" : "https://www.formula1.com/content/fom-website/en/teams/Williams/_jcr_content/logo.img.jpg/1590743731407.jpg",
+        "ALF" : "https://www.formula1.com/content/fom-website/en/teams/Alfa-Romeo-Racing/_jcr_content/logo.img.jpg/1582650603836.jpg",
+        "HAS" : "https://www.formula1.com/content/fom-website/en/teams/Haas-F1-Team/_jcr_content/logo.img.jpg/1615481143675.jpg"
+    }, 
+
+    "drivers":
+    {
+        "HAM" : "https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/image.img.1024.medium.jpg/1617101457462.jpg", 
+        "BOT" : "https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/image.img.1024.medium.jpg/1617101457255.jpg", 
+        "VER" : "https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/image.img.1024.medium.jpg/1617101447981.jpg", 
+        "PER" : "https://www.formula1.com/content/fom-website/en/drivers/sergio-perez/_jcr_content/image.img.1024.medium.jpg/1617101446970.jpg",
+        "NOR" : "https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/image.img.1024.medium.jpg/1617101457428.jpg", 
+        "RIC" : "https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/image.img.1024.medium.jpg/1617101458318.jpg",
+        "SAI" : "https://www.formula1.com/content/fom-website/en/drivers/carlos-sainz/_jcr_content/image.img.1024.medium.jpg/1617101457421.jpg",
+        "LEC" : "https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/image.img.1024.medium.jpg/1617101453619.jpg", 
+        "ALO" : "https://www.formula1.com/content/fom-website/en/drivers/fernando-alonso/_jcr_content/image.img.1024.medium.jpg/1617101458141.jpg", 
+        "OCO" : "https://www.formula1.com/content/fom-website/en/drivers/esteban-ocon/_jcr_content/image.img.1024.medium.jpg/1617101457663.jpg", 
+        "GAS" : "https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/image.img.1024.medium.jpg/1617101447487.jpg", 
+        "TSU" : "https://www.formula1.com/content/fom-website/en/drivers/yuki-tsunoda/_jcr_content/image.img.1024.medium.jpg/1617101457751.jpg", 
+        "VET" : "https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/image.img.1024.medium.jpg/1617101458077.jpg", 
+        "STR" : "https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/image.img.1024.medium.jpg/1617101447217.jpg",
+        "RUS" : "https://www.formula1.com/content/fom-website/en/drivers/george-russell/_jcr_content/image.img.1024.medium.jpg/1617101470404.jpg", 
+        "LAT" : "https://www.formula1.com/content/fom-website/en/drivers/nicholas-latifi/_jcr_content/image.img.1024.medium.jpg/1617101447797.jpg", 
+        "RAI" : "https://www.formula1.com/content/fom-website/en/drivers/kimi-raikkonen/_jcr_content/image.img.1024.medium.jpg/1617101460196.jpg",
+        "GIO" : "https://www.formula1.com/content/fom-website/en/drivers/antonio-giovinazzi/_jcr_content/image.img.1024.medium.jpg/1617101458903.jpg", 
+        "MSC" : "https://www.formula1.com/content/fom-website/en/drivers/mick-schumacher/_jcr_content/image.img.1024.medium.jpg/1617101458517.jpg", 
+        "MAZ" : "https://www.formula1.com/content/fom-website/en/drivers/nikita-mazepin/_jcr_content/image.img.1024.medium.jpg/1617101458189.jpg" 
+    },
+
+    "helmets":
+    {
+        "HAM" : "https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/helmet.img.png/1617101188945.png", 
+        "BOT" : "https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/helmet.img.png/1617101187249.png", 
+        "VER" : "https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/helmet.img.png/1616675150474.png", 
+        "PER" : "https://www.formula1.com/content/fom-website/en/drivers/sergio-perez/_jcr_content/helmet.img.png/1617101187824.png",
+        "NOR" : "https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/helmet.img.png/1617101189199.png", 
+        "RIC" : "https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/helmet.img.png/1617101187860.png",
+        "SAI" : "https://www.formula1.com/content/fom-website/en/drivers/carlos-sainz/_jcr_content/helmet.img.png/1617101187470.png",
+        "LEC" : "https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/helmet.img.png/1617101188925.png", 
+        "ALO" : "https://www.formula1.com/content/fom-website/en/drivers/fernando-alonso/_jcr_content/helmet.img.png/1617101187829.png", 
+        "OCO" : "https://www.formula1.com/content/fom-website/en/drivers/esteban-ocon/_jcr_content/helmet.img.png/1617101189029.png", 
+        "GAS" : "https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/helmet.img.png/1617101187634.png", 
+        "TSU" : "https://www.formula1.com/content/fom-website/en/drivers/yuki-tsunoda/_jcr_content/helmet.img.png/1617101188488.png", 
+        "VET" : "https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/helmet.img.png/1617101186770.png", 
+        "STR" : "https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/helmet.img.png/1617101188796.png",
+        "RUS" : "https://www.formula1.com/content/fom-website/en/drivers/george-russell/_jcr_content/helmet.img.png/1617101188206.png", 
+        "LAT" : "https://www.formula1.com/content/fom-website/en/drivers/nicholas-latifi/_jcr_content/helmet.img.png/1617101188940.png", 
+        "RAI" : "https://www.formula1.com/content/fom-website/en/drivers/kimi-raikkonen/_jcr_content/helmet.img.png/1617101187623.png",
+        "GIO" : "https://www.formula1.com/content/fom-website/en/drivers/antonio-giovinazzi/_jcr_content/helmet.img.png/1617101189211.png", 
+        "MSC" : "https://www.formula1.com/content/fom-website/en/drivers/mick-schumacher/_jcr_content/helmet.img.png/1617101189118.png", 
+        "MAZ" : "https://www.formula1.com/content/fom-website/en/drivers/nikita-mazepin/_jcr_content/helmet.img.png/1617101188781.png" 
+    }
+}

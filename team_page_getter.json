@@ -1,0 +1,25 @@
+{
+    "Full Team Name": "Scuderia Ferrari Mission Winnow",
+    "Base": "Maranello, Italy",
+    "Team Chief": "Mattia Binotto",
+    "Technical Chief": "Enrico Cardile / Enrico Gualtieri",
+    "Chassis": "SF21",
+    "Power Unit": "Ferrari",
+    "First Team Entry": "1950",
+    "World Championships": "16",
+    "Highest Race Finish": "1 (x239)",
+    "Pole Positions": "223",
+    "Fastest Laps": "253",
+    "drivers": {
+        "1": {
+            "number": "16",
+            "name": "Charles Leclerc",
+            "team": "Ferrari"
+        },
+        "2": {
+            "number": "55",
+            "name": "Carlos Sainz",
+            "team": "Ferrari"
+        }
+    }
+}

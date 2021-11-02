@@ -1,0 +1,37 @@
+CONSTRUCTORS
+
+Mercedes: MER  
+Red Bull Racing: RBR
+McLaren: MCL 
+Ferrari: FER 
+Alpine: ALP 
+AlphaTauri: ALT 
+Aston Martin: ASM
+Williams: WIL 
+Alfa Romeo Racing: ALF 
+Haas: HAS
+
+
+
+DRIVERS
+
+Lewis Hamilton: HAM 
+Valtteri Bottas: BOT 
+Max Verstappen: VER 
+Sergio Perez: PER 
+Lando Norris: NOR 
+Daniel Ricciardo: RIC
+Carlos Sainz: SAI
+Charles Leclerc: LEC 
+Fernando Alonso: ALO 
+Esteban Ocon: OCO 
+Pierre Gasly: GAS 
+Yuki Tsunoda: TSU 
+Sebastian Vettel: VET 
+Lance Stroll: STR
+George Russell: RUS 
+Nicholas Latifi: LAT 
+Kimi Raikkonen: RAI
+Antonio Giovinazzi: GIO 
+Mick Schumacher: MSC 
+Nikita Mazepin: MAZ 

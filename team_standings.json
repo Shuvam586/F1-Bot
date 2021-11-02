@@ -1,0 +1,57 @@
+{
+    "1": {
+        "number": "1",
+        "team": "Mercedes",
+        "points": "655"
+    },
+    "2": {
+        "number": "2",
+        "team": "Ferrari",
+        "points": "571"
+    },
+    "3": {
+        "number": "3",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": "419"
+    },
+    "4": {
+        "number": "4",
+        "team": "Renault",
+        "points": "122"
+    },
+    "5": {
+        "number": "5",
+        "team": "Haas Ferrari",
+        "points": "93"
+    },
+    "6": {
+        "number": "6",
+        "team": "McLaren Renault",
+        "points": "62"
+    },
+    "7": {
+        "number": "7",
+        "team": "Force India Mercedes",
+        "points": "52"
+    },
+    "8": {
+        "number": "8",
+        "team": "Sauber Ferrari",
+        "points": "48"
+    },
+    "9": {
+        "number": "9",
+        "team": "Scuderia Toro Rosso Honda",
+        "points": "33"
+    },
+    "10": {
+        "number": "10",
+        "team": "Williams Mercedes",
+        "points": "7"
+    },
+    "11": {
+        "number": "EX",
+        "team": "Force India Sahara",
+        "points": "0"
+    }
+}

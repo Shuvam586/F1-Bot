@@ -1,0 +1,242 @@
+{
+    "title": "1978 Austrian Grand Prix - Race Result",
+    "date": "13 Aug 1978",
+    "circuit": "\u00c3\u0096sterreichring, Austria",
+    "sponsor": "https://www.racecar-engineering.com/wp-content/uploads/2018/03/F1-LOGO.png",
+    "drivers": {
+        "1": {
+            "position": "1",
+            "driver_no": "6",
+            "driver": "Ronnie Peterson",
+            "team": "Lotus Ford",
+            "laps": "54",
+            "time": "1:41:21.570",
+            "points": "9"
+        },
+        "2": {
+            "position": "2",
+            "driver_no": "4",
+            "driver": "Patrick Depailler",
+            "team": "Tyrrell Ford",
+            "laps": "54",
+            "time": "+47.440s",
+            "points": "6"
+        },
+        "3": {
+            "position": "3",
+            "driver_no": "12",
+            "driver": "Gilles Villeneuve",
+            "team": "Ferrari",
+            "laps": "54",
+            "time": "+99.760s",
+            "points": "4"
+        },
+        "4": {
+            "position": "4",
+            "driver_no": "14",
+            "driver": "Emerson Fittipaldi",
+            "team": "Fittipaldi Ford",
+            "laps": "53",
+            "time": "+1 lap",
+            "points": "3"
+        },
+        "5": {
+            "position": "5",
+            "driver_no": "26",
+            "driver": "Jacques Laffite",
+            "team": "Ligier Matra",
+            "laps": "53",
+            "time": "+1 lap",
+            "points": "2"
+        },
+        "6": {
+            "position": "6",
+            "driver_no": "19",
+            "driver": "Vittorio Brambilla",
+            "team": "Surtees Ford",
+            "laps": "53",
+            "time": "+1 lap",
+            "points": "1"
+        },
+        "7": {
+            "position": "7",
+            "driver_no": "2",
+            "driver": "John Watson",
+            "team": "Brabham Alfa Romeo",
+            "laps": "53",
+            "time": "+1 lap",
+            "points": "0"
+        },
+        "8": {
+            "position": "8",
+            "driver_no": "30",
+            "driver": "Brett Lunger",
+            "team": "McLaren Ford",
+            "laps": "52",
+            "time": "+2 laps",
+            "points": "0"
+        },
+        "9": {
+            "position": "9",
+            "driver_no": "31",
+            "driver": "Rene Arnoux",
+            "team": "Martini Ford",
+            "laps": "52",
+            "time": "+2 laps",
+            "points": "0"
+        },
+        "10": {
+            "position": "NC",
+            "driver_no": "17",
+            "driver": "Clay Regazzoni",
+            "team": "Shadow Ford",
+            "laps": "50",
+            "time": "+4 laps",
+            "points": "0"
+        },
+        "11": {
+            "position": "NC",
+            "driver_no": "32",
+            "driver": "Keke Rosberg",
+            "team": "Wolf Ford",
+            "laps": "49",
+            "time": "+5 laps",
+            "points": "0"
+        },
+        "12": {
+            "position": "DQ",
+            "driver_no": "22",
+            "driver": "Derek Daly",
+            "team": "Ensign Ford",
+            "laps": "43",
+            "time": "DSQ",
+            "points": "0"
+        },
+        "13": {
+            "position": "NC",
+            "driver_no": "8",
+            "driver": "Patrick Tambay",
+            "team": "McLaren Ford",
+            "laps": "40",
+            "time": "DNF",
+            "points": "0"
+        },
+        "14": {
+            "position": "NC",
+            "driver_no": "16",
+            "driver": "Hans-Joachim Stuck",
+            "team": "Shadow Ford",
+            "laps": "33",
+            "time": "DNF",
+            "points": "0"
+        },
+        "15": {
+            "position": "NC",
+            "driver_no": "15",
+            "driver": "Jean-Pierre Jabouille",
+            "team": "Renault",
+            "laps": "31",
+            "time": "DNF",
+            "points": "0"
+        },
+        "16": {
+            "position": "NC",
+            "driver_no": "1",
+            "driver": "Niki Lauda",
+            "team": "Brabham Alfa Romeo",
+            "laps": "28",
+            "time": "DNF",
+            "points": "0"
+        },
+        "17": {
+            "position": "DQ",
+            "driver_no": "11",
+            "driver": "Carlos Reutemann",
+            "team": "Ferrari",
+            "laps": "27",
+            "time": "DSQ",
+            "points": "0"
+        },
+        "18": {
+            "position": "NC",
+            "driver_no": "3",
+            "driver": "Didier Pironi",
+            "team": "Tyrrell Ford",
+            "laps": "20",
+            "time": "DNF",
+            "points": "0"
+        },
+        "19": {
+            "position": "NC",
+            "driver_no": "7",
+            "driver": "James Hunt",
+            "team": "McLaren Ford",
+            "laps": "8",
+            "time": "DNF",
+            "points": "0"
+        },
+        "20": {
+            "position": "NC",
+            "driver_no": "27",
+            "driver": "Alan  Jones",
+            "team": "Williams Ford",
+            "laps": "7",
+            "time": "DNF",
+            "points": "0"
+        },
+        "21": {
+            "position": "NC",
+            "driver_no": "23",
+            "driver": "Harald Ertl",
+            "team": "Ensign Ford",
+            "laps": "6",
+            "time": "DNF",
+            "points": "0"
+        },
+        "22": {
+            "position": "NC",
+            "driver_no": "35",
+            "driver": "Riccardo Patrese",
+            "team": "Arrows Ford",
+            "laps": "6",
+            "time": "DNF",
+            "points": "0"
+        },
+        "23": {
+            "position": "NC",
+            "driver_no": "20",
+            "driver": "Jody Scheckter",
+            "team": "Wolf Ford",
+            "laps": "3",
+            "time": "DNF",
+            "points": "0"
+        },
+        "24": {
+            "position": "NC",
+            "driver_no": "29",
+            "driver": "Nelson Piquet",
+            "team": "McLaren Ford",
+            "laps": "2",
+            "time": "DNF",
+            "points": "0"
+        },
+        "25": {
+            "position": "NC",
+            "driver_no": "25",
+            "driver": "Hector Rebaque",
+            "team": "Lotus Ford",
+            "laps": "1",
+            "time": "DNF",
+            "points": "0"
+        },
+        "26": {
+            "position": "NC",
+            "driver_no": "5",
+            "driver": "Mario Andretti",
+            "team": "Lotus Ford",
+            "laps": "0",
+            "time": "DNF",
+            "points": "0"
+        }
+    }
+}
